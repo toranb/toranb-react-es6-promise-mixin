@@ -1,0 +1,19 @@
+{
+  "name": "toranb-react-es6-promise-mixin",
+  "version": "0.2.0",
+  "homepage": "https://github.com/toranb/toranb-react-es6-promise-mixin",
+  "authors": [
+    "Toran Billups <toranb@gmail.com>"
+  ],
+  "description": "a simple promise mixin for my es6 jspm demo",
+  "main": "main.js",
+  "keywords": [
+    "promise"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
